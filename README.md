@@ -6,10 +6,11 @@
 ![](https://www.uedbox.com/wp-content/uploads/2019/12/free-videos-app.png)
 
 ## 免费看电影APP下载
-仅支持Android安卓，两种下载方式：
+仅支持Android安卓，三种下载方式：
 
 1. **手机扫描上图二维码**
 2. **[Release 点我下载](https://www.lanzous.com/b0eveksgj "Release 点我下载")**
+3. **[Google play商店下载](https://play.google.com/store/apps/details?id=com.freebug.foxvideos "Google play商店下载")**
 
 ## 支持的类型
 - 电影
